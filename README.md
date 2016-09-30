@@ -1,0 +1,1 @@
+# Resize-Bulk-Images-using-Python
